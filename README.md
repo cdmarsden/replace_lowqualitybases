@@ -1,5 +1,5 @@
 # replace_lowqualitybases
-This script takes a sanger quality encoded fastq file, and replaces low quality bases below a user specified threshold with an N.
+This python script takes a sanger quality encoded fastq file, and replaces low quality bases below a user specified threshold with an N.
 This script was written for, and is only suitable for, sanger quality encoded fastq ONLY.
 
 Usage:
