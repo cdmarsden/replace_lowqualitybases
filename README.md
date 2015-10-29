@@ -5,8 +5,7 @@ This script was written for sanger quality encoding / phred + 33. It will not wo
 Usage:
 python scriptname.py infilename outfilename minimum_qualityscore
 
-For testing try testfile 3lines.sam
-e.g. python replace_low_quality_bases_Ns_1.py 3lines.sam out.sam 35
+For testing try testfile test.sam: e.g. python replace_low_quality_bases_Ns_1.py tests.sam out.sam 35
 
 
 
